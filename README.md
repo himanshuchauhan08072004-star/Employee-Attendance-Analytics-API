@@ -69,4 +69,4 @@ Assumptions where the contract was ambiguous:
 ## Known limitations
 - A correction that loses a concurrent race returns 409 and must be retried by the client; there is no automatic retry.
 - No authentication, because the contract does not require it.
-## Himanshu Chauhan
+## Himanshu Chauhan - himanshuchauhan08072004@gmail.com
